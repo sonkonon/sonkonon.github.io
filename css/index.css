@@ -3,6 +3,8 @@ body {
 }
 h1 {
     text-align: center;
+    border: 1px solid transparent;
+    border-bottom-color: black;
 }
 #bienvenu_message {
     margin: 32px 20%;
