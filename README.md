@@ -1,6 +1,6 @@
 # sonkonon.github.io
 
-## Pralable de tout travail
+## Prealable de tout travail
 
 Executer la comande git pull pour recuperer la mise a jour (la derniere version) du depot
 
